@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/redflixr/static/css/main.bef4bed1.css",
+    "main.js": "/redflixr/static/js/main.2f7dee0b.js",
+    "static/media/redflix.png": "/redflixr/static/media/redflix.5b38a2c389cdb4565fc2.png",
+    "index.html": "/redflixr/index.html",
+    "main.bef4bed1.css.map": "/redflixr/static/css/main.bef4bed1.css.map",
+    "main.2f7dee0b.js.map": "/redflixr/static/js/main.2f7dee0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bef4bed1.css",
+    "static/js/main.2f7dee0b.js"
+  ]
+}
